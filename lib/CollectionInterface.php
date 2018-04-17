@@ -4,7 +4,12 @@
  * Data: 2018/4/17
  */
 
-namespace Collection;
+/**
+ * Author: nuxse
+ * Data: 2018/4/17
+ */
+
+namespace Nuxseme;
 
 interface CollectionInterface extends \ArrayAccess, \Countable, \IteratorAggregate
 {
